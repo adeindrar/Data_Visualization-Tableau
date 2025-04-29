@@ -102,4 +102,4 @@ Kepuasan pelanggan adalah hal yang krusial dalam mempertahankan ataupun meningka
 ## Author ✍️
 **Ade Indra Rukmana**
 
-[linkedin](https://www.linkedin.com/in/ade-indra-rukmana/)
+[LinkedIn](https://www.linkedin.com/in/ade-indra-rukmana/)
