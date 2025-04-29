@@ -9,20 +9,19 @@ Repositori ini berfokus pada peningkatan kepuasan pelanggan melalui framework SM
 4. [Problem-Statement](#problem-statement-)
 5. [Penjabaran-Masalah](#penjabaran-masalah-)
 6. [Metode yang Digunakan](#metode-yang-digunakan-)
-7. [Kesimpulan Analisa](#kesimpulan-analisa-)
-8. [Rekomendasi](#rekomendasi-)
-9. [File yang Tersedia](#file-yang-tersedia-)
-10. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
-11. [Dependencies](#dependencies-)
-12. [Libraries](#libraries-)
-13. [Author](#author-)
+7. [Kesimpulan Analisa dan Rekomendasi Bisnis](#kesimpulan-analisa-dan-rekomendasi-bisnis-)
+8. [File yang Tersedia](#file-yang-tersedia-)
+9. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
+10. [Dependencies](#dependencies-)
+11. [Libraries](#libraries-)
+12. [Author](#author-️)
 
-## 1. Link Terkait Project ⛓️‍💥
+## Link Terkait Project ⛓️‍💥
 
  - [Dataset](https://www.kaggle.com/datasets/gazal5277/e-commerce-product-and-customer-dataset)
  - [Visualisasi Tableau](https://public.tableau.com/views/EcommerceDataVisualization_17459366360640/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 2. Project Overview 📝
+## Project Overview 📝
 
 Dalam proyek ini, saya melakukan Exploratory Data Analysis (EDA) untuk mencari insight dari dataset yang digunakan. Hasil analisis ditampilkan menggunakan tools visualisasi data yaitu **Tableau** untuk memudahkan dalam membaca informasi kepada para client. Beberapa langkah utama yang dicakup dalam proyek ini adalah:
 
