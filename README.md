@@ -11,10 +11,8 @@ Repositori ini berfokus pada peningkatan kepuasan pelanggan melalui framework SM
 6. [Metode yang Digunakan](#metode-yang-digunakan-)
 7. [Kesimpulan Analisa dan Rekomendasi Bisnis](#kesimpulan-analisa-dan-rekomendasi-bisnis-)
 8. [File yang Tersedia](#file-yang-tersedia-)
-9. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
-10. [Dependencies](#dependencies-)
-11. [Libraries](#libraries-)
-12. [Author](#author-️)
+9. [Libraries](#libraries-)
+10. [Author](#author-️)
 
 ## Link Terkait Project ⛓️‍💥
 
